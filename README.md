@@ -1,6 +1,3 @@
-# blank
+## Links
 
-A new Flutter project.
-
-## Getting Started
-
+https://flutter.dev/docs/deployment/android
